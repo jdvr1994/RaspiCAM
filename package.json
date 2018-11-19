@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "ws": "^6.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdvr1994/RaspiCAM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdvr1994/RaspiCAM/issues"
+  },
+  "homepage": "https://github.com/jdvr1994/RaspiCAM#readme"
 }
